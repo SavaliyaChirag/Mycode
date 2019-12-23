@@ -6,3 +6,4 @@ Sorting Algorithm
 3. Merge Sort
 4. Counting Sort
 5. Heap Sort
+6. Quick Sort
